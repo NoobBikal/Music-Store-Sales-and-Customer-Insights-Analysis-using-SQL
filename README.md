@@ -22,3 +22,14 @@ To analyze music store data using SQL and uncover insights on customer spending,
 - Used CTEs and ROW_NUMBER () for ranking.
 - Extracted insights on top customers, artists, and genres.
 
+# Project Insights:
+-	Queen was the top-selling artist, generating the highest revenue among all artists.
+-	The United States and Canada had the most invoices and customer purchases.
+-	Rock was the most popular genre in multiple countries.
+-	The platform’s top customers contributed significantly to revenue, especially in specific countries.
+-	Tracks longer than average was identified, useful for premium content strategy.
+-	Genre preferences varied by country, offering insights for targeted promotions.
+
+# Conclusion:
+This project used SQL to uncover key insights from the Chinook music store database. It identified Queen as the best-selling artist, highlighted top-spending customers, and revealed country-wise genre trends. These insights support strategic decisions in marketing, sales, and customer engagement.
+
