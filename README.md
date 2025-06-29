@@ -14,4 +14,11 @@ To analyze music store data using SQL and uncover insights on customer spending,
 - We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases.     Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres.
 - Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top       customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount
 
+#  Process 
+- Connected to the music database in SSMS.
+- Queried key tables: customer, invoice, track, genre, artist, and album.
+- Used JOINs to combine related data.
+- Applied aggregate functions and filtering.
+- Used CTEs and ROW_NUMBER () for ranking.
+- Extracted insights on top customers, artists, and genres.
 
