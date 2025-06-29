@@ -1,2 +1,3 @@
-# Music-Store-Sales-and-Customer-Insights-Analysis-using-SQL
-This SQL project analyzes the music store database to uncover insights on sales, customers, artists, and genres using SSMS. It identifies top customers, popular genres, best-selling artists, and long tracks using JOINs, CTEs, and aggregation to support data-driven decisions.
+# Music Store Sales and Customer Insights Analysis using SQL
+##  Project Objective
+To analyze music store data using SQL and uncover insights on customer spending, sales trends, top artists, and popular genres.
